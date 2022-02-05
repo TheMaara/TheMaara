@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mark Maara
 - 👀 I’m interested in AI & Machine Learning
-- 🌱 I’m currently doing the IBM AI professional certificate course
 - 💞️ I’m looking to collaborate on any interesting AI projects
 - 📫 How to reach me: cubicmaara@gmail.com
 
